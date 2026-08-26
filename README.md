@@ -117,14 +117,6 @@ public class SahilKolande {
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dev-sahilkolande&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -134,8 +126,6 @@ public class SahilKolande {
 
 </div>
 
-> ⚙️ This animation is generated live by a GitHub Action. See setup instructions below — it needs a one-time 2-minute setup in your profile repo.
-
 <br/>
 
 ## 🚀 Featured Projects
@@ -143,15 +133,14 @@ public class SahilKolande {
 <div align="center">
 
 <a href="https://github.com/dev-sahilkolande">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sahilkolande&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sahilkolande&repo=AI_Powered_MERN_Blogging_Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="48%"/>
 </a>
 <a href="https://github.com/dev-sahilkolande">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sahilkolande&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sahilkolande&repo=Portofolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" width="48%"/>
 </a>
 
 </div>
 
-> 📌 Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` with your actual repo names (e.g. an e-commerce Spring Boot app, or a MERN project) to pin your best work here.
 
 <br/>
 
